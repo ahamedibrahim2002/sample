@@ -1,4 +1,4 @@
 
-pdated
+updated from commadline
 
 hello world in github
